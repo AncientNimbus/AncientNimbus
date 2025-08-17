@@ -2,6 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=AncientNimbus&color=orange)
 
+<a href="https://www.artstation.com/artwork/q1wkP" target="_blank" rel="noopener noreferrer">
+<img width="994" height="354" alt="art-banner" src="https://github.com/user-attachments/assets/4b981363-b030-48de-aa75-4ece7093ff12" />
+</a>
+
 <!--
 **AncientNimbus/AncientNimbus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
